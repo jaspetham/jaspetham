@@ -1,10 +1,15 @@
 <div id="header" align="center">
-  <img src="[https://tenor.com/view/coding-gif-4706460855862906629.gif](https://tenor.com/en-GB/view/scaler-create-impact-css-internet-explorer-development-gif-25011984)" width="150" height="150"/>
+  <img src="https://tenor.com/en-GB/view/scaler-create-impact-css-internet-explorer-development-gif-25011984" width="150" height="150"/>
 </div>
 <div id="badges">
   <p align="center">
     <a href="http://linkedin.com/in/jaspetham">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" max-width="100%"/>
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://jasper-personal-portfolio.netlify.app">
+      <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website Badge" max-width="100%"/>
     </a>
   </p>
 </div>
@@ -17,6 +22,7 @@
 - :woman_technologist: Senior Front End Developer
 - :seedling: Always Learning
 - 🤯 Area of Interest:
+    - Responsive Websites
     - 3D Interactive Websites
 
 ---
@@ -27,7 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="vuejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="webpack" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/tree/master/icons/typescript-original.svg" title="Typescript" alt="typescript" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/tree/master/icons/typescript/typescript-original.svg" title="Typescript" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/threejs/threejs-original.svg" title="threejs" alt="threejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/tree/master/icons/html5/html5-original.svg" title="HTML5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/tree/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
