@@ -34,11 +34,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="vuejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/html5/html5-original.svg" title="HTML5" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/css3/css3-original.svg" title="CSS" alt="css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="css" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="tailwindcss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="40" height="40"/>&nbsp;
 </div>
 
 
