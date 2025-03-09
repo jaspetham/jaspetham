@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <div class="tenor-gif-embed" data-postid="25011984" data-share-method="host" data-aspect-ratio="1.42857" data-width="100%"></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <a href="https://jasper.re/">
+      <img src="https://t3.ftcdn.net/jpg/02/92/88/72/360_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg" alt="Frontend" max-width="100%"/>
+    </a>
 </div>
 <div id="badges">
   <p align="center">
