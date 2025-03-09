@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/en-GB/view/scaler-create-impact-css-internet-explorer-development-gif-25011984" width="150" height="150"/>
+  <div class="tenor-gif-embed" data-postid="25011984" data-share-method="host" data-aspect-ratio="1.42857" data-width="100%"><a href="https://tenor.com/view/scaler-create-impact-css-internet-explorer-development-gif-25011984">Scaler Create Impact GIF</a>from <a href="https://tenor.com/search/scaler-gifs">Scaler GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 <div id="badges">
   <p align="center">
